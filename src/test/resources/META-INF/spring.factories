@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = \
+    nl.etjh.ixswink.config.SqlTestContainersSpringContextCustomizerFactory,nl.\
+    etjh.ixswink.config.TestContainersSpringContextCustomizerFactory
